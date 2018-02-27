@@ -10,7 +10,11 @@
     },
     "versionFirst": "4.3.4",
     "uniqCompNum": 12,
-    "versionPublish": "4.3.4"
+    "versionPublish": "4.3.4",
+    "favicon": "@PROJECT_PATH@/assets/images/hugss-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
