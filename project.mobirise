@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Hugcoin",
+    "name": "HUGS - Embrace the Blockchain",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -20,8 +20,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "HUGS - Embrace the Blockchain",
+        "meta_descr": "A hug is a simple yet powerful sign of friendship. Now everyone can share the comfort of a nice warm embrace  from anywhere in the world thanks to the power of the Ethereum blockchain.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
